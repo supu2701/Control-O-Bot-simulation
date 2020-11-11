@@ -25,6 +25,17 @@ Resources-
 Resources-
 1. https://www.w3schools.com/cpp/ 
 2. https://www.javatpoint.com/cpp-tutorial 
+
+### ✔Basics of Robot
+1. The IMU- Inertial Measurement Unit
+2. GPS Receiver Module
+3. GPS Module
+4. Distance Sensor- LED, LIDAR, Ultrasonic, Range finder, VCSEL
+5. Actuators and motors.
+
+### ✔Webots Simulation Software
+
+
  
  
  
