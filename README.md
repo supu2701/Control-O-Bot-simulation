@@ -1,5 +1,5 @@
 # Control-O-Bot-simulation💥⏭
-Simulation of Line Following+ Obstacle avoidance Automated Robot using webots software
+Simulation of Line Following+ Obstacle avoidance Automated Robot which detects obstacles on th gri and reaches the end point following the shortest path possible using webots software.
 ## Intallation guides🏁🏁
  ### ✔Installation of Pycharm, Cpp compiler, Python compiler
 ### ✔ Webots installation guides
