@@ -19,7 +19,6 @@ Simulation of Line Following+ Obstacle avoidance Automated Robot which detects o
 Resources-
 1. Learn Python By Example; https://www.learnbyexample.org/python/ 
 2. Wikibooks: Python Programing; https://en.wikibooks.org/wiki/Python_Programming 
-3. Python by Telusko; https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62i eoN-MZ3 
 
 ### ✔C++- Basics, variables, functions, decision making statements, arrays and pointers.
 Resources-
@@ -34,7 +33,34 @@ Resources-
 5. Actuators and motors.
 
 ### ✔Webots Simulation Software
+Webots is a professional mobile robot simulation software package. It offers a rapid prototyping environment that allows the user to create 3D virtual worlds with physics properties such as mass, joints, friction coefficients, etc.
+Resources: 
+1. Webots Documentation- https://cyberbotics.com/doc/guide/index
+2. References- https://cyberbotics.com/doc/guide/tutorials?tab-language=c++ 
+3. Sample webots applications-  The example worlds can be tested easily; the ".wbt" files are located in various "worlds" directories of the "WEBOTS_HOME/projects" directory and can be directly opened from Webots using the Open Sample World item in File menu. The controller code is located in the corresponding "controllers" directory. 
+4. Devices: Most of the devices use a simple two-wheeled blue robot called MyBot moving in a closed square arena containing obstacles. The studied devices are attached on this robot. MyBot moves and avoid obstacles using two DistanceSensors and a technique based on Braitenberg vehicles. 
 
+※ motor.wbt
+※ motor2.wbt
+※ motor3.wbt
+※ pen.wbt
+※ position_sensor.wbt
+※ range_finder.wbt
+※ supervisor.wbt
+
+            
+## What to develop?🏁🏁
+### ✔Problem statement:
+The detailed version of the objective to be achieved is given in the probleem statement file.
+### ✔Arena Design
+The various arena design is provided in the various arena.wbt files present. 
+🛑 Try design your own complex arena version and then run your bot on it. It will be very exciting💯.
+### ✔Bot Design on webots
+Try experimenting with different designs on webots. The beeter the bot design, the easier will it be to code for the desired objective and the smoother the bot will move.
+### ✔Controller
+The final code for the simulation of your own robot on webots. It could be in any programming languages like, C++, C, MATLAB, Java, Python.
+
+💥So design your very own bot, simulate it online and watch it performing cool stuffs. Happy developing👍.
 
  
  
